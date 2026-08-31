@@ -21,6 +21,8 @@ Walking is one of the simplest ways to improve mood and health, but knowing wher
 
 ![me](docs/videos/demo.gif)
 
+[Watch the Project Demo on YouTube](https://youtu.be/BUKwm1gV2OY)
+
 ## How It Works
 
 Map data for Ulqin is downloaded via OSMnx/OpenStreetMap and enriched with tags describing nature and scenery, "must-visit" places (monuments, historical sites), amenities, places to avoid (busy or fast roads, poor-quality tracks, cemeteries, military land), and pedestrian-safe places.
