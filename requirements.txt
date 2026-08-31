@@ -1,0 +1,10 @@
+stable-baselines3
+matplotlib
+gymnasium
+numpy
+osmnx
+networkx
+scikit-learn
+geopandas
+streamlit
+tensorboard
