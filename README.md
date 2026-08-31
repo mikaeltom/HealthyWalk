@@ -10,6 +10,8 @@ Grade: 20/20
 
 ![demo_screen](docs/images/home.png)
 
+[Watch the Project Demo on YouTube](https://youtu.be/BUKwm1gV2OY)
+
 This project builds a custom OpenAI Gym / Gymnasium environment in which a PPO agent (Stable-Baselines3) learns to construct closed-loop walking routes in Ulqin, Montenegro, tailored to a user-requested duration and to what actually makes a walk pleasant. The full methodology, design rationale, failed attempts, and results are documented in [`report.pdf`](./report.pdf).
 
 
