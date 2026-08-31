@@ -1,6 +1,6 @@
 # HealthyWalk : Reinforcement Learning
 
-Project developed as part of the **Reinforcement Learning** course (Vrije Universiteit Brussel)
+Project developed as part of the **Reinforcement Learning** course (Vrije Universiteit Brussel).
 
 Author : Mikael Tom 
 
