@@ -12,7 +12,7 @@ This project builds a custom OpenAI Gym / Gymnasium environment in which a PPO a
 
 ## Why This Project Matters
 
-Walking is one of the simplest ways to improve mood and health, but knowing where to go is often the real barrier. Most people default to the same handful of routes tied to a destination (school, work, groceries) rather than walking for its own sake. This is even more pronounced in places with weak pedestrian infrastructure — Ulqin, Montenegro was chosen precisely because of its scarce sidewalks and low walking culture, where short trips are often done by car instead of on foot. Framing "suggest a good walk" as a sequential decision problem lets an RL agent balance competing goals — matching a target duration, favoring pleasant and safe segments, avoiding hazards, reaching points of interest, better than a hand-tuned heuristic, and it can be personalized further with direct user feedback.
+Walking is one of the simplest ways to improve mood and health, but knowing where to go is often the real barrier. Most people default to the same handful of routes tied to a destination (school, work, groceries) rather than walking for its own sake. This is even more pronounced in places with weak pedestrian infrastructure. Ulqin, Montenegro was chosen precisely because of its scarce sidewalks and low walking culture, where short trips are often done by car instead of on foot. Framing "suggest a good walk" as a sequential decision problem lets an RL agent balance competing goals, matching a target duration, favoring pleasant and safe segments, avoiding hazards, reaching points of interest, better than a hand-tuned heuristic, and it can be personalized further with direct user feedback.
 
 ## How It Works
 
